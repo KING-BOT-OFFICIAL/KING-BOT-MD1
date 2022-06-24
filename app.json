@@ -1,12 +1,12 @@
-{
+{ //Fixed By:𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐  (prabhasha2006)
   "name": "KING-BOT-MD V1",
-  "description": "whatsapp md bot build with NODE.js",
-  "repository": "https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD",
+  "description": "⎝🔥𝚱𝚰𝚴Ｇ🔥⎠ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴠ1.0.0",
+  "repository": "https://github.com/prabhasha2006/Red-Dragon",
   "logo": "https://telegra.ph/file/24b9b8507613125d34bd1.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+       "url": "heroku/nodejs"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
