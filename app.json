@@ -1,4 +1,5 @@
-{ 
+
+{
   "name": "KING-BOT-MD V1",
   "description": "⎝🔥𝚱𝚰𝚴Ｇ🔥⎠ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ᴠ1.0.0",
   "repository": "https://github.com/prabhasha2006/Red-Dragon",
@@ -6,7 +7,7 @@
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
-       "url": "heroku/nodejs"
+      "url": "heroku/nodejs"
     },
     {
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
